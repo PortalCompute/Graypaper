@@ -1,9 +1,9 @@
 ---
 layout: default
-title: DeFi 
+title: Private NFTs 
 nav_order: 6
 description: ""
-permalink: /use_cases/defi
+permalink: /use_cases/private_nfts
 parent: Use Cases
 ---
 
