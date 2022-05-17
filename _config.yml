@@ -18,6 +18,7 @@ description: graypaper
 baseurl: "" # the subpath of your site, e.g. /blog
 remote_theme: just-the-docs/just-the-docs
 # url: "https://graypaper.portalcompute.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: https://portalcompute.github.io
 
 
 permalink: pretty
