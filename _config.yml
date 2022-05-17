@@ -16,7 +16,7 @@
 title: Portal Compute
 description: graypaper
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://whitepaper.portalcompute.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://graypaper.portalcompute.com" # the base hostname & protocol for your site, e.g. http://example.com
 remote_theme: just-the-docs/just-the-docs
 
 permalink: pretty
