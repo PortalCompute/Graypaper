@@ -14,4 +14,4 @@ parent: Use Cases
 
 > This is an essential tool for enabling business-to-business and hospital-to-hospital collaborations. 
 
-> DAO members can participate in the training of a DAO-owned model, where the dataset is curated to adhere to the community's values. For more detail see the [ethical AI](https://whitepaper.portal3.ai/use_cases/ethical_ai) use case.
+> DAO members can participate in the training of a DAO-owned model, where the dataset is curated to adhere to the community's values. For more detail see the [ethical AI](https://graypaper.portal3.ai/use_cases/ethical_ai) use case.

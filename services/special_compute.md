@@ -9,7 +9,7 @@ grand_parent: Technology
 ---
 
 # Specialized Portal Compute Oracle Network 
-> Unlike L1 blockchains, *PCONs* are flexible in their implementations, and *PCBs* can be implemented per-computation to optimize performance and efficiency. A [*G-PCON*](https://whitepaper.portalcompute.com/technology/services/general_compute) can, in theory, run any computation, making it a convenient target for developers. However, since the node must emulate the execution of a program, it will always perform slower than running the program natively.
+> Unlike L1 blockchains, *PCONs* are flexible in their implementations, and *PCBs* can be implemented per-computation to optimize performance and efficiency. A [*G-PCON*](https://graypaper.portalcompute.com/technology/services/general_compute) can, in theory, run any computation, making it a convenient target for developers. However, since the node must emulate the execution of a program, it will always perform slower than running the program natively.
 
 > For example, including a VRF function inside the *PCB* means that the code is compiled directly as part of the enclave binary. This function will be much faster than executing the equivalent logic via a generic runtime (e.g. a VRF Python function executed via Python interpreter).
 

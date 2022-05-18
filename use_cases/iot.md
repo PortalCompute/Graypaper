@@ -25,7 +25,7 @@ parent: Use Cases
 - proof of sweat: 
     > prove that you have performed exercise (AI validates wearable health data to verify exercise threshold was reached)
 - recurring health checks
-    > run recurring analytics (i.e. every X blocks) on your health data. When used in conjunction with [proof of AI](https://whitepaper.portal3.ai/use_cases/proof_of_ai), this can be used in screening processes for medical insurance
+    > run recurring analytics (i.e. every X blocks) on your health data. When used in conjunction with [proof of AI](https://graypaper.portal3.ai/use_cases/proof_of_ai), this can be used in screening processes for medical insurance
 - proof of alive
     > run recurring health checks on wearable health data to prove you are alive
 - proof of location
