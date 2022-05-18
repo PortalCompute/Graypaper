@@ -11,34 +11,35 @@ permalink: /roadmap
 ### Q1 and Q2 of 2022
 - Launch the **[Portal Compute](https://www.portalcompute.com/)** website 
 - Create and deploy the **[Graypaper](https://graypaper.portalcompute.com/)**
-- Deploy MVP to testnet. 
-- Adapt MVP to solve partners’ pain-points.
+- Deploy MVP to Testnet
+- Adapt MVP to solve partners’ pain-points
 
 ### Q3 and Q4 of 2022
-- Deploy MVP to Mainnet. 
-- Begin Generalization of our service. 
+- Deploy MVP to Mainnet 
+- Create and deploy the **Yellowpaper**
+- Create and deploy generalized-compute oracle service
 
 ## Year 2023
 
 ### Q1 and Q2
-- Begin decentralizing.
-- Launch Portal governance DAO.
-- Reduce costs via BLS signatures. 
+- Begin decentralizing *PCONs*
+- Launch Portal governance DAO
+- Reduce costs via BLS signatures
 
 ### Q3 and Q4
-- Continue decentralizing by allowing anyone to be an oracle node.
-- Optimize performance and reduce costs by enabling off-chain requests.
-- Reduce risk and finish decentralizing.  
+- Continue decentralizing by allowing anyone to be an oracle node
+- Optimize performance and reduce costs by enabling off-chain requests
 
 ## Year 2024
 
 ### Q1 AND Q2
-- Expand application-specific oracle services.
-- Allow anyone to launch their own oracle service.
+- Reduce risk by supporting a second TEE hardware manufacturer
+- Expand application-specific oracle services
+- Create custom AI for GameFi and NFT projects
 
 ### Q3 and Q4
-- Create custome AI for gamefi and NFT projects
-- Create and host portal made AI pipeline for trading and yield farming
+- Develop SDK to allow anyone to create and launch their own *PCB* and *PCON*
+- Develop AI pipeline service to onboard web2 AI developers
 
 
 
