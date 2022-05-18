@@ -11,8 +11,8 @@ has_children: true
 
 ## Portal allows for
 
-1. new use cases that were **not previously possible**: [proof of AI](https://whitepaper.portal3.ai/use_cases/proof_of_ai), [ethical AI](https://whitepaper.portal3.ai/use_cases/ethical_ai), [AI marketplaces](https://whitepaper.portal3.ai/use_cases/ai_marketplace).
+1. new use cases that were **not previously possible**: [proof of AI](https://whitepaper.portalcompute.com/use_cases/proof_of_ai), [ethical AI](https://whitepaper.portalcompute.com/use_cases/ethical_ai), [AI marketplaces](https://whitepaper.portalcompute.com/use_cases/ai_marketplace).
 
-2. existing use cases to be made **practical**: [collaborative training](https://whitepaper.portal3.ai/use_cases/collaborative_training), [electronic health records](https://whitepaper.portal3.ai/use_cases/ehr).
+2. existing use cases to be made **practical**: [collaborative training](https://whitepaper.portalcompute.com/use_cases/collaborative_training), [electronic health records](https://whitepaper.portalcompute.com/use_cases/ehr).
 
-3. **new capabilities** for existing Dapps: [sybil resistance](https://whitepaper.portal3.ai/use_cases/sybil_resistance), [DeFi](https://whitepaper.portal3.ai/use_cases/defi), [recommender systems](https://whitepaper.portal3.ai/use_cases/recommender_sys), [non-custodial biometrics](https://whitepaper.portal3.ai/use_cases/biometrics).
+3. **new capabilities** for existing Dapps: [sybil resistance](https://whitepaper.portalcompute.com/use_cases/sybil_resistance), [DeFi](https://whitepaper.portalcompute.com/use_cases/defi), [recommender systems](https://whitepaper.portalcompute.com/use_cases/recommender_sys), [non-custodial biometrics](https://whitepaper.portalcompute.com/use_cases/biometrics), [private nfts](https://whitepaper.portalcompute.com/use_cases/private_nfts).
