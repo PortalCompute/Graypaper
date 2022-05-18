@@ -9,38 +9,38 @@ permalink: /roadmap
 ## Year 2022 
 
 ### Q1 and Q2 of 2022
-- Launch the **[Portal AI](https://www.portal3.ai/)** website 
-- Create and deploy the **[Whitepaper](https://www.portal3.ai/)**
-- Deploy MVP to testnet 
+- Launch the **[Portal Compute](https://www.portalcompute.com/)** website 
+- Create and deploy the **[Graypaper](https://graypaper.portalcompute.com/)**
+- Deploy MVP to testnet. 
+- Adapt MVP to solve partners’ pain-points.
 
 ### Q3 and Q4 of 2022
-- Expand set of smart contracts to host more AI models 
-- Enable AI model hosting on the Testnet 
+- Deploy MVP to Mainnet. 
+- Begin Generalization of our service. 
 
 ## Year 2023
 
 ### Q1 and Q2
-- Launch inference service on Mainnet
-- Launch data preprocessing services on Testnet
-- Launch data preprocessing services on Mainnet
+- Begin decentralizing.
+- Launch Portal governance DAO.
+- Reduce costs via BLS signatures. 
 
 ### Q3 and Q4
-- Enable (small) model training on Testnet
-- Deploy (small) model training on Mainnet
-- Integrate GPU training for the Oracle service 
+- Continue decentralizing by allowing anyone to be an oracle node.
+- Optimize performance and reduce costs by enabling off-chain requests.
+- Reduce risk and finish decentralizing.  
 
 ## Year 2024
 
 ### Q1 AND Q2
-- Release Portal AI’s oracle pipeline service
-- Work and research towards decentralization of all portal oracle services
+- Expand application-specific oracle services.
+- Allow anyone to launch their own oracle service.
 
 ### Q3 and Q4
 - Create custome AI for gamefi and NFT projects
 - Create and host portal made AI pipeline for trading and yield farming
 
-## Year 2025
-- Bring most cutting edge AI on Portal
+
 
 
 
