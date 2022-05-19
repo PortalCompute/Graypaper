@@ -29,7 +29,7 @@ parent: Technology
 
 > Assuming specialized compute outperforms general compute in terms of speed and cost for certain applications, then L1s that offer general purpose smart contracts will underperform compared to L1s that specialize. 
 
-> For example, we can focus on one specific computation: matrix multiplication. A theoretical L1 with GPU-equipped nodes can perform this specific computation orders of magnitude faster than a general purpose L1 running the same computation inside of a smart contract. It is possible for the general purpose L1 can hard-fork to compete, but this is irrational.
+> For example, we can focus on one specific computation: matrix multiplication. A theoretical L1 with GPU-equipped nodes can perform this specific computation orders of magnitude faster than a general purpose L1 running the same computation inside of a smart contract. It is possible for the general purpose L1 to hard-fork to compete, but this is irrational.
 
 > This example begs the question: are specialized chains necessary to support specialized computation? We think the answer is no, and that this should be discouraged for two reasons:
 
